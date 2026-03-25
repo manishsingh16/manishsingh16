@@ -8,9 +8,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7c3aed&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=manishsingh16&style=flat-square&color=7c3aed&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=7c3aed&label=FOLLOWERS)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/manishsingh16?style=flat-square&color=7c3aed&label=FOLLOWERS)](https://github.com/manishsingh16)
 
 </div>
 
@@ -172,7 +172,7 @@ Docker         ██████        Learning
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manishsingh16&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
