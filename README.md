@@ -168,7 +168,7 @@ Docker         ██████        Learning
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+<img src="https://streak-stats.demolab.com/?user=manishsingh16&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&include_all_commits=true" />
 
 <br/><br/>
 
